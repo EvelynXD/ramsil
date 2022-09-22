@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/awikowkrete69.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/Awikwokrete69.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 
 </p>
