@@ -49,35 +49,35 @@
 #### KELEBIHAN 📍
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **No Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Simple** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Button template** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Multi Device** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Fast Respon** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **No Internet** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Simple** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Button template** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Multi Device** |[✔️](https://github.com/EvelynXD/ramsil) |
 ---------
 #### FITUR 📍
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game Rpg** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Nsfw** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Sticker** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Kerang Ajaib** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Quotes** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Anime** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Premium** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Tools** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Exec** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **React** |[✔️](https://github.com/AyGemuy/HinataBot) |
+| **Downloader** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Internet** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Game Rpg** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Nsfw** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Sticker** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Game** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Kerang Ajaib** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Quotes** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Anime** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Premium** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Tools** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **Exec** |[✔️](https://github.com/EvelynXD/ramsil) |
+| **React** |[✔️](https://github.com/EvelynXD/ramsil) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/AyGemuy/HinataBot)
-- Owner Name [Here](https://github.com/AyGemuy/HinataBot)
-- Bot Name [Here](https://github.com/AyGemuy/HinataBot)
+- Owner Number [Here](https://github.com/EvelynXD/ramsil)
+- Owner Name [Here](https://github.com/EvelynXD/ramsil)
+- Bot Name [Here](https://github.com/EvelynXD/ramsil)
 ---------
 
 ## ```Heroku Buildpack```
@@ -95,8 +95,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AyGemuy/HinataBot/
-$ cd HinataBot-master
+$ git clone https://github.com/EvelynXD/ramsil/
+$ cd YNTKTS
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -138,8 +138,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/AyGemuy/HinataBot/
-cd HinataBot-master
+git clone https://github.com/EvelynXD/ramsil/
+cd YNTKTS
 npm install
 npm update
 ```
@@ -154,8 +154,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AyGemuy/HinataBot/
-cd HinataBot-master
+git clone https://github.com/EvelynXD/ramsil/
+cd YNTKTS
 npm install
 npm update
 ```
@@ -223,11 +223,11 @@ conn.sendButton(
 )
 
 // example 
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+conn.sendButton(m.chat, 'Hello world!', '@RambutSilit', null, [
       ['Hello', 'hello'], ['Bye', 'bye']
 ])
 // example button location
-conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+conn.sendButton(m.chat, 'Hello world!', '@RambutSilit', 'https://github.com/Ramsil', 
       [['Hello', 'hello'], ['Bye', 'bye']], 
       null, { asLocation: true }
 )
@@ -236,27 +236,27 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ### 📮 S&K
 1. Jangan diperjual belikan Script ini
-2. Sebelum pakai jangan lupa kasih star
-3. Follow Github !
-4. Jangan salah gunakan script ini!
-5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Wudysoft
+2. Jangan pacaran sama kosplayer
+3. Jangan jadikan jedag-jedug di tiktod!
+4. Jangan jadi hengker termuk!
+5. Jangan makan bubur di aduk
+6. Jika ada eror di sc tanya jokowi
 
 ---------
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/AyGemuy/HinataBot)
-* [`My parents`](https://github.com/AyGemuy/HinataBot)
-* [`All Friends`](https://github.com/AyGemuy/HinataBot)
-* [`All Contributors`](https://github.com/AyGemuy/HinataBot)
-* [`All Creator Bot`](https://github.com/AyGemuy/HinataBot)
+* [`Allah SWT`](https://github.com/EvelynXD/ramsil)
+* [`My parents`](https://github.com/EvelynXD/ramsil)
+* [`All Friends`](https://github.com/EvelynXD/ramsil)
+* [`All Contributors`](https://github.com/EvelynXD/ramsil)
+* [`All Creator Bot`](https://githib.com/EvelynXD/ramsil)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
-* [`BochilGaming`](https://github.com/bochilgaming)
+* [`RambutSilit`](https://github.com/)
 
 ## ```Recode By 💌```
-[![HinataBot](https://github.com/AyGemuy.png?size=100)](https://github.com/AyGemuy/HinataBot)
+[![EvelynXD](https://github.com/EvelynXD.png?size=100)](https://github.com/EvelynXD/ramsil)
 
 ## ```Contributor 📣```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
