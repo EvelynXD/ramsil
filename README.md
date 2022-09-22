@@ -1,49 +1,49 @@
 
 <p align="center">
-<img src="https://github.com/AyGemuy.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/awikowkrete69.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 
 </p>
-<h1 align="center">HinataBot - MD</h1>
+<h1 align="center">YNTKTS - MD</h1>
 <p align="center">
-  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HinataBot+Wudysoft+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/EvelynXD/ramsil"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=YNTKTS+EvelynXD+BOT+Multi+Device;Base+ori+by+Ramsil;Recode+By+EvelynXD" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="HinataBot" src="https://img.shields.io/badge/HinataBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="EvelynXD" src="https://img.shields.io/badge/EvelynXD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Wudysoft-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-EvelynXD-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/AyGemuy/HinataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AyGemuy/HinataBot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AyGemuy/HinataBot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AyGemuy/HinataBot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AyGemuy/HinataBot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/AyGemuy/HinataBot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/AyGemuy/HinataBot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/AyGemuy/HinataBot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/AyGemuy/HinataBot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/EvelynXD/ramsil?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/EvelynXD/ramsil?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/EvelynXD/ramsil?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/EvelynXD/ramsil?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/issues"><img title="Issues" src="https://img.shields.io/github/issues/EvelynXD/ramsil?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/EvelynXD/ramsil?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/EvelynXD/ramsil?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/EvelynXD/ramsil/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/EvelynXD/ramsil?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6282195322106">
-    <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  <a href="https://wa.me/6289526834009">
+    <img align="left" alt="Evelyn | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@upload_file">
-    <img align="left" alt="Wudysoft | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+  <a href="https://tiktok.com/@evelynxd6969">
+    <img align="left" alt="Evelyn | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/wudysoft">
-    <img align="left" alt="Wudysoft | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  <a href="https://instagram.com/evelynxd69">
+    <img align="left" alt="Evelyn | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:wudysoft@mail.com">
-    <img align="left" alt="Wudysoft | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  <a href="mailto:evelyn@mail.com">
+    <img align="left" alt="Evelyn | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6282195322106"> <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285171216276) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282195322106) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI) 
+## ```Whatsapp``` <a href="https://wa.me/6289526834009"> <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282135751247) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6289526834009) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/D26Mvwee71q2okY3JRNdhj) 
 ---------
 
 #### KELEBIHAN 📍
